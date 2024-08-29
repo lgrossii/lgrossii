@@ -3,7 +3,7 @@
 ---
 
 Hi there i'm Lorenzo, a Computer Science student at Sapienza university of Roma.<br>
-Here, you will find some of the projects I've worked on during my studies at Sapienza and my time in 42 school.<br>
+Down below, you will find some of the projects I've worked on during my studies at Sapienza and my time in 42 school.<br>
 Hope you will find something interesting! :grin:
 
 ---
