@@ -11,7 +11,7 @@ Hope you will find something interesting! :grin:
 ## 42 Projects 
 All the projects in this section were developed at 42 and written in C. <br>
 I know, they might not showcase the most efficient approaches, and that’s because 42 has a very (very) strict standards  to follow (think of it as C programming in hardcore mode 😆).<br>
-Examples: “For” loops or any kind of external function (with a few exceptions) that you didn’t develop yourself are not allowed.
+To give you a sense of it : “For” loops or any kind of external function (with a few exceptions) that you didn’t develop yourself are not allowed.
 
 <table> 
 <tr>
