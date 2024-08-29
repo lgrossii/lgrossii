@@ -10,10 +10,10 @@ Hope you will find something interesting! :grin:
 
 ## 42 Projects 
 All the projects in this section were developed at 42 and written in C. <br>
-I know, they might not showcase the most efficient approaches, and that’s because 42 has very (very) strict standards to follow (think of it as C programming in hardcore mode 😆).
-Example: “For” loops or any kind of external function (with a few exceptions) that you didn’t develop yourself are not allowed.
+I know, they might not showcase the most efficient approaches, and that’s because 42 has a very (very) strict standards  to follow (think of it as C programming in hardcore mode 😆).<br>
+Examples: “For” loops or any kind of external function (with a few exceptions) that you didn’t develop yourself are not allowed.
 
-<table>
+<table> 
 <tr>
 <th align="left"> &nbsp; Projects</th>
 </tr>
@@ -21,8 +21,8 @@ Example: “For” loops or any kind of external function (with a few exceptions
 
 <td>
 
-| [libft](https://github.com/onetrainn/libft)          | [get_next_line](https://github.com/onetrainn/get_next_line) |[push_swap](https://github.com/onetrainn/push_swap)  | [so_long](https://github.com/onetrainn/so_long) |
-|                                                    --|                                                           --|                                                   --|                                               --|
+| [libft](https://github.com/onetrainn/libft)          | [get_next_line](https://github.com/onetrainn/get_next_line) |[push_swap](https://github.com/onetrainn/push_swap)  | [so_long](https://github.com/onetrainn/so_long) | [ft_printf](https://github.com/onetrainn/ft_printf)|
+|                                                    --|                                                           --|                                                   --|                                               --|  --|
 </td> </tr> </table>
 
 
