@@ -1,4 +1,30 @@
-![](![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+![](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif)
+
+---
+
+Hi there i'm Lorenzo, a Computer Science student at Sapienza university of Roma.<br>
+Here, you will find some of the projects I've worked on during my studies at Sapienza and my time in 42 school.<br>
+Hope you will find something interesting! :grin:
+
+---
+
+## 42 Projects 
+All the projects in this section were developed at 42 and written in C. <br>
+I know, they might not showcase the most efficient approaches, and that’s because 42 has very (very) strict standards to follow (think of it as C programming in hardcore mode 😆).
+Example: “For” loops or any kind of external function (with a few exceptions) that you didn’t develop yourself are not allowed.
+
+<table>
+<tr>
+<th align="left"> &nbsp; Projects</th>
+</tr>
+<tr>
+
+<td>
+
+| [libft](https://github.com/onetrainn/libft)          | [get_next_line](https://github.com/onetrainn/get_next_line) |[push_swap](https://github.com/onetrainn/push_swap)  | [so_long](https://github.com/onetrainn/so_long) |
+|                                                    --|                                                           --|                                                   --|                                               --|
+</td> </tr> </table>
+
 
 
 <!--
