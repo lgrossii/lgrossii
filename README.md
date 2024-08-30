@@ -13,20 +13,13 @@ All the projects in this section were developed at 42 school and written in C. <
 >I know, they might not showcase the most efficient approaches, and that’s because 42 has a very (very) strict standards to follow (think of it as C programming in hardcore mode 😆).<br>
 >To give you a sense of it : “For” loops or any kind of external function (with a few exceptions) that you didn’t develop yourself are not allowed.
 
-<table> 
-<tr>
-<th align="left"> &nbsp; Projects</th>
-</tr>
-<tr>
-
-<td>
-
-| [libft](https://github.com/onetrainn/libft)          | [get_next_line](https://github.com/onetrainn/get_next_line) |[push_swap](https://github.com/onetrainn/push_swap)  | [so_long](https://github.com/onetrainn/so_long) | [ft_printf](https://github.com/onetrainn/ft_printf)|
-|                                                    --|                                                           --|                                                   --|                                               --|  --|
-</td> </tr> </table>
-
-
-<tabele>
+| Projects                                                                                           | Description                                                                 |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------                     |
+| [libft](https://github.com/onetrainn/libft)                                                        | A comprehensive library of essential C functions, recreated from scratch.   |
+| [get_next_line](https://github.com/onetrainn/get_next_line)                                        | An implementation for reading lines from a file descriptor.                 |
+| [push_swap](https://github.com/onetrainn/push_swap)                                                | Algorithmic project focused on sorting 2 stacks with established operations |
+| [so_long](https://github.com/onetrainn/so_long)                                                    | A 2D game demonstrating fundamental graphics and game mechanics.            |
+| [ft_printf](https://github.com/onetrainn/ft_printf)                                                | A custom implementation of printf function in C                             |
 
 <!--
 **onetrainn/onetrainn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
