@@ -10,8 +10,8 @@ Hope you will find something interesting! :grin:
 
 ## <img src="https://makerfairerome.eu/wp-content/uploads/2020/08/42-Roma-luiss-1.jpg" width="200" height="100">
 All the projects in this section were developed at 42 school and written in C. <br>
-I know, they might not showcase the most efficient approaches, and that’s because 42 has a very (very) strict standards  to follow (think of it as C programming in hardcore mode 😆).<br>
-To give you a sense of it : “For” loops or any kind of external function (with a few exceptions) that you didn’t develop yourself are not allowed.
+>I know, they might not showcase the most efficient approaches, and that’s because 42 has a very (very) strict standards to follow (think of it as C programming in hardcore mode 😆).<br>
+>To give you a sense of it : “For” loops or any kind of external function (with a few exceptions) that you didn’t develop yourself are not allowed.
 
 <table> 
 <tr>
@@ -26,6 +26,7 @@ To give you a sense of it : “For” loops or any kind of external function (wi
 </td> </tr> </table>
 
 
+<tabele>
 
 <!--
 **onetrainn/onetrainn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
