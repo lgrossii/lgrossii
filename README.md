@@ -7,8 +7,9 @@ Down below, you will find some of the projects I've worked on during my studies 
 Hope you will find something interesting! :grin:
 
 ---
-
-## <img src="https://makerfairerome.eu/wp-content/uploads/2020/08/42-Roma-luiss-1.jpg" width="200" height="100">
+<p align="center">
+<img src="https://makerfairerome.eu/wp-content/uploads/2020/08/42-Roma-luiss-1.jpg" width="200" height="100" dispose = center>
+</p>
 All the projects in this section were developed at 42 school and written in C. <br>
 >I know, they might not showcase the most efficient approaches, and that’s because 42 has a very (very) strict standards to follow (think of it as C programming in hardcore mode 😆).<br>
 >To give you a sense of it : “For” loops or any kind of external function (with a few exceptions) that you didn’t develop yourself are not allowed.
@@ -22,11 +23,16 @@ All the projects in this section were developed at 42 school and written in C. <
 | [ft_printf](https://github.com/onetrainn/ft_printf)                                                | A custom implementation of printf function in C                             |
 
 ---
+<p align="center">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stemma_sapienza.png" width="200" height = "200" > <br>
+</p>
+
 > ... this section is still work in progress ...<br>
 
+<p align="center">
 <img src = "https://i.makeagif.com/media/1-17-2023/JfKHrM.gif">
 <img src ="https://y.yarn.co/f5cf1565-a845-4c24-be0f-afbfc9251a3c_text.gif">
+</p>
 <!--
 **onetrainn/onetrainn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
