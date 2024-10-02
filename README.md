@@ -21,6 +21,12 @@ All the projects in this section were developed at 42 school and written in C. <
 | [so_long](https://github.com/onetrainn/so_long)                                                    | A 2D game demonstrating fundamental graphics and game mechanics.            |
 | [ft_printf](https://github.com/onetrainn/ft_printf)                                                | A custom implementation of printf function in C                             |
 
+---
+<img src = "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stemma_sapienza.png" width="200" height = "200" > <br>
+> ... this section is still work in progress ...<br>
+
+<img src = "https://i.makeagif.com/media/1-17-2023/JfKHrM.gif">
+<img src ="https://y.yarn.co/f5cf1565-a845-4c24-be0f-afbfc9251a3c_text.gif">
 <!--
 **onetrainn/onetrainn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
