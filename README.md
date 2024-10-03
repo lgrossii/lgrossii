@@ -28,10 +28,10 @@ To give you a sense of it : “For” loops or any kind of external function (wi
 ---
 <p align="center">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stemma_sapienza.png" width="200" height = "200" > <br>
-</p>
+
 
 > ... this section is still work in progress ...<br>
-
+</p>
 <p align="center">
 <img src = "https://i.makeagif.com/media/1-17-2023/JfKHrM.gif">
 <img src ="https://y.yarn.co/f5cf1565-a845-4c24-be0f-afbfc9251a3c_text.gif">
